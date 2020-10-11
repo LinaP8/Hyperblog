@@ -28,11 +28,11 @@ body
      width: 70%;
      padding: 1em;
      text-align: left;
-     border: 1px solid darkolivegreen;
+     border: 1px solid gray;
      margin: 0 auto;
  }
 
  #container h1
  {
-     font-size: 20px;
+     font-size: 25px;
  }
