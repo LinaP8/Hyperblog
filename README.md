@@ -10,7 +10,7 @@ Es una excelente práctica en tus proyectos, md significa Markdown, que es una e
 
 Lo interesante de Markdown es que funciona en muchas páginas, por ejemplo la edición en Wikipedia; es un lenguaje intermedio que no es HTML, no es texto plano, es una manera de crear excelentes texto formateados
 
-Con la clase de Readme.md tuve mi primiparada en mi ruta de aprendizaje utilizando un editor online, le di clic al link que puse para verificar que fuera el correcto y me borro todo lo que había hecho
+Con la clase de Readme tuve mi primiparada en mi ruta de aprendizaje utilizando un editor online, le di clic al link que puse para verificar que fuera el correcto y me borro todo lo que había hecho
 
 Readme.md
 
