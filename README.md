@@ -1,4 +1,4 @@
-Hyperblog ❤
+Blog de viajeros ❤
 
 Blog desarrollado en el curso de Git y Github de Platzi
 
