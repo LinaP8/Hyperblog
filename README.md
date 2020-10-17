@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Blog de viajeros ❤
+=======
+Blog de viajeros ❤
+>>>>>>> e1b1a6afcb5d6fff95deb8f3965d4bd270ef87c7
 
 ## Blog desarrollado en el curso de Git y Github de Platzi
 
@@ -15,5 +19,8 @@ Con la clase de Readme tuve mi primiparada en mi ruta de aprendizaje utilizando 
 [Readme.md][123]
 
 Arriba de este párrafo encontrarás el link de la clase.
+<<<<<<< HEAD
 
 [123]: https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/
+=======
+>>>>>>> e1b1a6afcb5d6fff95deb8f3965d4bd270ef87c7
